@@ -23,6 +23,8 @@ All topics related to machine learning are welcome. They include but not limited
 - Causal Inference
 - Fairness and Differential Privacy
 
+Paper submission is through CMT platform: https://cmt3.research.microsoft.com/NewInML2019
+
 Note that the accepted papers will be presented as oral presentation or posters, but we will NOT have proceedings. This will not count as a publication to give the opportunity to the presenters to (re-)submit to NeurIPS 2020.
 
 # Best Paper Awards
@@ -38,8 +40,6 @@ Note that the accepted papers will be presented as oral presentation or posters,
 - December 09th, 2019: Session day
 
 Note that accepted papers will be receiving the possibility to register to NeurIPS and will be able to apply for travel awards, to be attributed according to merit and need.
-
-Instruction for paper submission will be put here very soon.
 
 
 # Program
