@@ -91,5 +91,5 @@ TBA
 
 # Sponsors
 
-<img src="https://assets.pandaily.com/uploads/2018/12/AI-Startup-4Paradigm.jpg" alt="drawing" width="400"/>
-<img src="http://sunai.uoc.edu/chalearnLAP/img/ChalearnLogo.png" alt="drawing" width="400"/>
+<img src="https://assets.pandaily.com/uploads/2018/12/AI-Startup-4Paradigm.jpg" alt="drawing" width="300"/>
+<img src="http://sunai.uoc.edu/chalearnLAP/img/ChalearnLogo.png" alt="drawing" width="300"/>
