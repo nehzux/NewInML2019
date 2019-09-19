@@ -10,7 +10,7 @@ Our biggest goal is to help you publish papers in next year's NeurIPS conference
 
 # Call For Papers
 
-Though authors of little publication experience in NeurIPS are prioritized, everyone is welcome to join this interesting session and exchange ideas. 
+Since this is an exercise in writing good NeurIPS papers, the authors are requested to submit papers respecting the NeurIPS format and instructions: [https://nips.cc/Conferences/2019/CallForPapers](https://nips.cc/Conferences/2019/CallForPapers). Though authors of little publication experience in NeurIPS are prioritized, everyone is welcome to join this interesting session and exchange ideas. 
 
 All topics related to machine learning are welcome. They include but not limited to:
 - Automated Machine Learning
@@ -23,7 +23,6 @@ All topics related to machine learning are welcome. They include but not limited
 - Causal Inference
 - Fairness and Differential Privacy
 
-Since this is an exercise in writing good NeurIPS papers, the authors are requested to submit papers respecting the NeurIPS format and instructions: [https://nips.cc/Conferences/2019/CallForPapers](https://nips.cc/Conferences/2019/CallForPapers).
 
 Paper submission is through CMT platform: [https://cmt3.research.microsoft.com/NewInML2019](https://cmt3.research.microsoft.com/NewInML2019)
 
