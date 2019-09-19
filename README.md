@@ -1,6 +1,3 @@
-# New In ML 2019
-The First Group Session for Newcomers to Machine Learning
-
 ### The first  forum for newcomers to ML is co-located with NeurIPS, Vancouver, BC, Canada, Monday, December 9th, 2019.
 
 # Mission
@@ -36,11 +33,11 @@ Note that the accepted papers will be presented as oral presentation or posters,
 
 # Important Dates
 
-October 15th, 2019: Paper submission deadline
-October 30th, 2019: Author notification deadline
-December 09th, 2019: Session day
-Note that accepted papers will be receiving the possibility to register to NeurIPS and will be able to apply for travel awards, to be attributed according to merit and need.
+- October 15th, 2019: Paper submission deadline
+- October 30th, 2019: Author notification deadline
+- December 09th, 2019: Session day
 
+Note that accepted papers will be receiving the possibility to register to NeurIPS and will be able to apply for travel awards, to be attributed according to merit and need.
 
 Instruction for paper submission will be put here very soon.
 
@@ -50,38 +47,37 @@ Instruction for paper submission will be put here very soon.
 This will be a whole day session. 
 Tentative program:
 
-08:00 - 08:30 Breakfast with mentors (together with affinity groups)
+| **Time**  | **Event**|
+|-------------------------------------------|-----------------------------------------------------------------------------------|
+|08:00 - 08:30| Breakfast with mentors (together with affinity groups)  |
+|08:30 - 08:45| **Opening address:**  Terrence Sejnowski |
+|08:45 - 09:30|  **Invited Talk:** Thomas G. Dietterich |
+|09:30 - 10:30| Four contributed talks of 10 min + 5 min questions |
+|10:30 - 11:00| Break and poster session |
+|11:00 - 12:00| Four contributed talks of 10 min + 5 min questions |
+|12:00 - 14:00| Award ceremony <br/> Lunch buffet<br/> Poster session  |
+|14:00 - 14:15| Welcome back and announcements (organizers)|
+|14:15 - 15:00| **Invited Talk:** TBA|
+|15:00 - 16:00| Four contributed talks of 10 min + 5 min questions|
+|16:00 - 16:30| Break and poster session|
+|16:30 - 17:30| Mentor panel and questions|
+|18:00 - 20:00| Poster and reception buffet (together with affinity groups)|
 
 
-08:30 - 08:45 Opening address: Terrence Sejnowski
-08:45 - 09:30 Keynote Speaker 1: Thomas G. Dietterich
-09:30 - 10:30 Four contributed talks of 10 min + 5 min questions 
-10:30 - 11:00 Break and poster session 
-11:00 - 12:00 Four contributed talks of 10 min + 5 min questions
-
-12:00 - 14:00 Award ceremony, Lunch buffet + Poster session
-
-14:00 - 14:15 Welcome back and announcements (organizers)
-14:15 - 15:00 Keynote Speaker 2
-15:00 - 16:00 Four contributed talks of 10 min + 5 min questions
-16:00 - 16:30 Break and poster session
-16:30 - 17:30 Mentor panel and questions
-
-18:00 - 20:00 Poster and reception buffet (together with affinity groups)
 
 
 # Mentors
 
-Terrence Sejnowski (The Salk Institute)
-Thomas G. Dietterich (Oregon State University)
+* Terrence Sejnowski (The Salk Institute)
+* Thomas G. Dietterich (Oregon State University)
 
 More people to be confirmed
 
 # Organizers
 
-Zhen Xu (zhen.xu@polytechnique.edu)
-Zhengying Liu (zhengying.liu@inria.fr)
-Xiawei Guo (guoxiawei@4paradigm.com)
+* Zhen Xu (zhen.xu@polytechnique.edu)
+* Zhengying Liu (zhengying.liu@inria.fr)
+* Xiawei Guo (guoxiawei@4paradigm.com)
 
 # Program Committee
 
@@ -89,5 +85,5 @@ TBA
 
 # Advisors
 
-Isabelle Guyon (U. PSud/INRIA, U. Paris-Saclay)
-Wei-Wei Tu (4paradigm)
+* Isabelle Guyon (U. PSud/INRIA, U. Paris-Saclay)
+* Wei-Wei Tu (4paradigm)
