@@ -65,11 +65,11 @@ Tentative program:
 
 
 
-
 # Mentors
 
 * Terrence Sejnowski (The Salk Institute)
 * Thomas G. Dietterich (Oregon State University)
+* Michael Mozer (University of Colorado, Boulder)
 
 More people to be confirmed
 
@@ -87,3 +87,8 @@ TBA
 
 * Isabelle Guyon (U. PSud/INRIA, U. Paris-Saclay)
 * Wei-Wei Tu (4paradigm)
+
+# Sponsors
+
+<img src="https://assets.pandaily.com/uploads/2018/12/AI-Startup-4Paradigm.jpg" alt="drawing" width="400"/>
+<img src="http://sunai.uoc.edu/chalearnLAP/img/ChalearnLogo.png" alt="drawing" width="400"/>
