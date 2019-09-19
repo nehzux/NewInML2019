@@ -23,7 +23,9 @@ All topics related to machine learning are welcome. They include but not limited
 - Causal Inference
 - Fairness and Differential Privacy
 
-Paper submission is through CMT platform: https://cmt3.research.microsoft.com/NewInML2019
+Since this is an exercise in writing good NeurIPS papers, the authors are requested to submit papers respecting the NeurIPS format and instructions: [https://nips.cc/Conferences/2019/CallForPapers](https://nips.cc/Conferences/2019/CallForPapers).
+
+Paper submission is through CMT platform: [https://cmt3.research.microsoft.com/NewInML2019](https://cmt3.research.microsoft.com/NewInML2019)
 
 Note that the accepted papers will be presented as oral presentation or posters, but we will NOT have proceedings. This will not count as a publication to give the opportunity to the presenters to (re-)submit to NeurIPS 2020.
 
