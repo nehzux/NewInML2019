@@ -10,7 +10,7 @@ Our biggest goal is to help you publish papers at next year's NeurIPS conference
 
 # Call For Papers
 
-Your ticket ti NeurIPS 2020? Maybe:
+Your ticket to NeurIPS 2020? Maybe!
 
 Since this is an exercise in writing good NeurIPS papers, the authors are requested to submit papers respecting the NeurIPS format and instructions: [https://nips.cc/Conferences/2019/CallForPapers](https://nips.cc/Conferences/2019/CallForPapers). We welcome submissions by first authors with no prior accepted publication at NeurIPS (main conference).
 
