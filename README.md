@@ -68,7 +68,7 @@ Tentative program:
 
 
 
-# Confirmed Mentors/Reviewers
+# Mentors/Reviewers
 
 * <b>Terrence Sejnowski</b> (The Salk Institute, USA), co-founder and president of the NeurIPS foundation
 * <b>Thomas G. Dietterich</b> (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
