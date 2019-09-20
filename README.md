@@ -77,7 +77,7 @@ Tentative program:
 
 # Organizers
 
-* Zhen Xu (Ecole Polytechnique, 4Paradigm)
+* Zhen Xu (Ecole Polytechnique, 4Paradigm, zhen.xu AT polytechnique.edu)
 * Zhengying Liu (U. PSud/INRIA, Université Paris-Saclay)
 * Xiawei Guo (4Paradigm)
 
