@@ -70,13 +70,13 @@ Tentative program:
 
 # Confirmed Mentors/Reviewers
 
-* Terrence Sejnowski (The Salk Institute, USA), co-founder and president of the NeurIPS foundation
-* Thomas G. Dietterich (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
-* Michael Mozer (University of Colorado, USA), NeurIPS foundation secretary
-* Masashi Sugiyama (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
-* Corinna Cortes (to be confirmed) (Google Research, New York, USA), former NeurIPS program chair and general chair, NeurIPS board member
-* Yoshua Bengio (University of Montréal and MILA, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
-* Neil Lawrence (University of Manchester, UK), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Terrence Sejnowski</b> (The Salk Institute, USA), co-founder and president of the NeurIPS foundation
+* <b>Thomas G. Dietterich</b> (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
+* <b>Michael Mozer</b> (University of Colorado, USA), NeurIPS foundation secretary
+* <b>Masashi Sugiyama</b> (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Corinna Cortes</b> (to be confirmed) (Google Research, New York, USA), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Yoshua Bengio</b> (University of Montréal and MILA, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
+* <b>Neil Lawrence</b> (University of Manchester, UK), former NeurIPS program chair and general chair, NeurIPS board member
 
 # Organizers
 
