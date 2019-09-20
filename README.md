@@ -60,7 +60,7 @@ Tentative program:
 |11:00 - 12:00| Four contributed talks of 10 min + 5 min questions |
 |12:00 - 14:00| Award ceremony <br/> Lunch buffet<br/> Poster session  |
 |14:00 - 14:15| Welcome back and announcements (organizers)|
-|14:15 - 15:00| **Invited Talk:** Corinna Cortes |
+|14:15 - 15:00| **Invited Talk:** Corinna Cortes (to be confirmed)|
 |15:00 - 16:00| Four contributed talks of 10 min + 5 min questions|
 |16:00 - 16:30| Break and poster session|
 |16:30 - 17:30| Mentor panel and questions|
@@ -74,7 +74,7 @@ Tentative program:
 * Thomas G. Dietterich (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
 * Michael Mozer (University of Colorado, USA), NeurIPS foundation secretary
 * Masashi Sugiyama (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
-* Corinna Cortes (Google Research, New York, USA), former NeurIPS program chair and general chair, NeurIPS board member
+* Corinna Cortes (to be confirmed) (Google Research, New York, USA), former NeurIPS program chair and general chair, NeurIPS board member
 
 # Organizers
 
@@ -84,7 +84,7 @@ Tentative program:
 
 # Advisors
 
-* Isabelle Guyon (U. PSud/INRIA, Université Paris-Saclay)
+* Isabelle Guyon (U. PSud/INRIA, Université Paris-Saclay and ChaLearn)
 * Wei-Wei Tu (4Paradigm)
 
 # Sponsors
