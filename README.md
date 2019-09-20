@@ -77,14 +77,14 @@ Tentative program:
 
 # Organizers
 
-* Zhen Xu (zhen.xu@polytechnique.edu)
-* Zhengying Liu (zhengying.liu@inria.fr)
-* Xiawei Guo (guoxiawei@4paradigm.com)
+* Zhen Xu (Ecole Polytechnique, 4Paradigm)
+* Zhengying Liu (U. PSud/INRIA, Université Paris-Saclay)
+* Xiawei Guo (4Paradigm)
 
 # Advisors
 
 * Isabelle Guyon (U. PSud/INRIA, Université Paris-Saclay)
-* Wei-Wei Tu (4paradigm)
+* Wei-Wei Tu (4Paradigm)
 
 # Sponsors
 
