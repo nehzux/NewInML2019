@@ -76,7 +76,7 @@ Tentative program:
 * Masashi Sugiyama (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
 * Corinna Cortes (to be confirmed) (Google Research, New York, USA), former NeurIPS program chair and general chair, NeurIPS board member
 * Yoshua Bengio (University of Montréal and MILA, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
-
+* Neil Lawrence (University of Manchester, UK), former NeurIPS program chair and general chair, NeurIPS board member
 
 # Organizers
 
