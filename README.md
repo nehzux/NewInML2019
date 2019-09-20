@@ -2,15 +2,17 @@
 
 # Mission
 
-Is this your first time to a top conference? Have you ever wanted your own work recognized by this huge and active community? Do you encounter difficulties in polishing up the ideas, experiments, paper writing, etc? Then, this session is exactly for you!
+Is this your first time to a top conference? Have you ever wanted your own work recognized by this huge and active community? Do you encounter difficulties in polishing your ideas, experiments, paper writing, etc? Then, this session is exactly for you!
 
-This year, we are organizing this special New in ML workshop, co-locating with NeurIPS 2019. We are targeting anyone who hasn't published a paper at NeurIPS conference track and we want to try our best to help you! We will invite acknowledged researchers to share with you their suggestions; we are providing opportunities to have your on-going projects reviewed by senior reviewers and even mentored by them; we invite  junior researchers to orally present their innovative work, etc.
+This year, we are organizing this special New in ML workshop, co-locating with NeurIPS 2019. We are targeting anyone who has not published a paper at the NeurIPS main conference yet. We invited top NeurIPS researchers to review your work and share with you their experience in poster sessions and mentoring sessions. The best papers will get oral presentations and even awards!
 
-Our biggest goal is to help you publish papers in next year's NeurIPS conference, involve fully in this community and benefit the most!  
+Our biggest goal is to help you publish papers at next year's NeurIPS conference, and generally provide you with the guidance you need to contribute to ML research fully and effectively!  
 
 # Call For Papers
 
-Since this is an exercise in writing good NeurIPS papers, the authors are requested to submit papers respecting the NeurIPS format and instructions: [https://nips.cc/Conferences/2019/CallForPapers](https://nips.cc/Conferences/2019/CallForPapers). Though authors of little publication experience in NeurIPS are prioritized, everyone is welcome to join this interesting session and exchange ideas. 
+Your ticket ti NeurIPS 2020? Maybe:
+
+Since this is an exercise in writing good NeurIPS papers, the authors are requested to submit papers respecting the NeurIPS format and instructions: [https://nips.cc/Conferences/2019/CallForPapers](https://nips.cc/Conferences/2019/CallForPapers). We welcome submissions by first authors with no prior accepted publication at NeurIPS (main conference).
 
 All topics related to machine learning are welcome. They include but not limited to:
 - Automated Machine Learning
@@ -26,7 +28,7 @@ All topics related to machine learning are welcome. They include but not limited
 
 Paper submission is through CMT platform: [https://cmt3.research.microsoft.com/NewInML2019](https://cmt3.research.microsoft.com/NewInML2019)
 
-Note that the accepted papers will be presented as oral presentation or posters, but we will NOT have proceedings. This will not count as a publication to give the opportunity to the presenters to (re-)submit to NeurIPS 2020.
+Accepted papers will be reviewed by expert NeurIPS reviewers and, if accepted, will get a talk or a poster at the workshop and expect coaching. <b> This will NOT count as an official publication, so papers submitted can then be revised and submitted to NeurIPS 2020! </b>
 
 # Best Paper Awards
 
@@ -40,7 +42,7 @@ Note that the accepted papers will be presented as oral presentation or posters,
 - October 30th, 2019: Author notification deadline
 - December 09th, 2019: Session day
 
-Note that accepted papers will be receiving the possibility to register to NeurIPS and will be able to apply for travel awards, to be attributed according to merit and need.
+Within quota limits, the authors of the best accepted papers will be receiving the possibility of registering to NeurIPS and will be able to apply for travel awards, to be attributed according to merit and need.
 
 
 # Program
@@ -66,13 +68,12 @@ Tentative program:
 
 
 
-# Mentors
+# Confirmed Mentors/Reviewers
 
-* Terrence Sejnowski (The Salk Institute)
-* Thomas G. Dietterich (Oregon State University)
-* Michael Mozer (University of Colorado, Boulder)
-
-More people to be confirmed
+* Terrence Sejnowski (The Salk Institute, USA), co-founder and president of the NeurIPS foundation
+* Thomas G. Dietterich (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
+* Michael Mozer (University of Colorado, USA), NeurIPS foundation secretary
+* Masashi Sugiyama (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
 
 # Organizers
 
@@ -80,13 +81,9 @@ More people to be confirmed
 * Zhengying Liu (zhengying.liu@inria.fr)
 * Xiawei Guo (guoxiawei@4paradigm.com)
 
-# Program Committee
-
-TBA
-
 # Advisors
 
-* Isabelle Guyon (U. PSud/INRIA, U. Paris-Saclay)
+* Isabelle Guyon (U. PSud/INRIA, Université Paris-Saclay)
 * Wei-Wei Tu (4paradigm)
 
 # Sponsors
