@@ -77,6 +77,7 @@ Tentative program:
 * <b>Corinna Cortes</b> (to be confirmed) (Google Research, New York, USA), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Yoshua Bengio</b> (University of Montréal and MILA, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Neil Lawrence</b> (University of Manchester, UK), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Yair Weiss</b> (Hebrew University, Israel), former NeurIPS program chair and general chair, NeurIPS board advisor
 
 # Organizers
 
