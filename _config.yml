@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: "NewInML2019"
-description: "NewInML@NeurIPS 2019"
+title: "New In ML 2019"
+# description: "NewInML@NeurIPS 2019"
 
 github:
   is_project_page: false
