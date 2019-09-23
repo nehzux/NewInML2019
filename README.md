@@ -92,5 +92,5 @@ Tentative program:
 
 # Sponsors
 
-<img src="https://assets.pandaily.com/uploads/2018/12/AI-Startup-4Paradigm.jpg" alt="drawing" width="100"/>
-<img src="http://sunai.uoc.edu/chalearnLAP/img/ChalearnLogo.png" alt="drawing" width="100"/>
+<img src="http://ccc.inaoep.mx/~hugojair/imgs/4p.png" alt="drawing" width="150"/>
+<img src="http://sunai.uoc.edu/chalearnLAP/img/ChalearnLogo.png" alt="drawing" width="150"/>
