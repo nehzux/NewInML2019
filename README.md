@@ -68,10 +68,21 @@ Tentative program:
 
 
 
-# Mentors/Reviewers
+# Mentors
 
 * <b>Yoshua Bengio</b> (University of Montréal and MILA, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
-* <b>Corinna Cortes</b> (to be confirmed) (Google Research, New York, USA), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Corinna Cortes</b> (Google Research, New York, USA), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Thomas G. Dietterich</b> (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
+* <b>Been Kim</b> (Senior Research Scientist. Google Brain), area chair of NeurIPS
+* <b>Neil Lawrence</b> (University of Manchester, UK), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Michael Mozer</b> (University of Colorado, USA), NeurIPS foundation secretary
+* <b>Terrence Sejnowski</b> (The Salk Institute, USA), co-founder and president of the NeurIPS foundation
+* <b>Masashi Sugiyama</b> (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Yair Weiss</b> (Hebrew University, Israel), former NeurIPS program chair and general chair, NeurIPS board advisor
+
+# Reviewers
+
+* <b>Yoshua Bengio</b> (University of Montréal and MILA, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Thomas G. Dietterich</b> (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Neil Lawrence</b> (University of Manchester, UK), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Michael Mozer</b> (University of Colorado, USA), NeurIPS foundation secretary
@@ -81,7 +92,7 @@ Tentative program:
 
 # Organizers
 
-* Zhen Xu (Ecole Polytechnique, 4Paradigm, [zhen.xu@polytechnique.edu](zhen.xu@polytechnique.edu))
+* Zhen Xu (Ecole Polytechnique/4Paradigm [zhen.xu@polytechnique.edu](zhen.xu@polytechnique.edu))
 * Zhengying Liu (U. PSud/INRIA, Université Paris-Saclay)
 * Xiawei Guo (4Paradigm)
 
