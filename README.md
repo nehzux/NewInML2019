@@ -12,7 +12,7 @@ Our biggest goal is to help you publish papers at next year's NeurIPS conference
 
 Your ticket to NeurIPS 2020? Maybe!
 
-Since this is an exercise in writing good NeurIPS papers, the authors are requested to submit papers respecting the NeurIPS format and instructions: [https://nips.cc/Conferences/2019/CallForPapers](https://nips.cc/Conferences/2019/CallForPapers). We welcome submissions by first authors with no prior accepted publication at NeurIPS (main conference).
+Since this is an exercise in writing good NeurIPS papers, the authors are requested to submit papers respecting the NeurIPS format and instructions: [https://nips.cc/Conferences/2019/CallForPapers](https://nips.cc/Conferences/2019/CallForPapers). **Note that for conference track, the page limit is 8 pages for content. But we also accept shorter papers as long as the idea is explained clearly.** We welcome submissions by first authors with no prior accepted publication at NeurIPS (main conference).
 
 All topics related to machine learning are welcome. They include but not limited to:
 - Automated Machine Learning
