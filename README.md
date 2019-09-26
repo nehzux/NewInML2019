@@ -81,7 +81,7 @@ Tentative program:
 * <b>Jack Goetz</b> (Univerisity of Michigan, USA)
 * <b>David Jensen</b> (Univerisity of Massachusetts, USA)
 * <b>David Kale</b> (University of South California, USA)
-* <b>Been Kim</b> (Senior Research Scientist. Google Brain), area chair of NeurIPS
+* <b>Been Kim</b> (Google Brain), area chair of NeurIPS
 * <b>Hugo Larochelle</b> (Google Brain), program chair of NeurIPS
 * <b>Neil Lawrence</b> (University of Manchester, UK), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Michael Mozer</b> (University of Colorado, USA), NeurIPS foundation secretary
@@ -102,7 +102,7 @@ Tentative program:
 * <b>Irene Chen</b> (Massachusetts Institute of Technology, USA)
 * <b>Thomas G. Dietterich</b> (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Tanner Fiez</b> (University of Washington, USA)
-* <b>Vincent François-Lavet</b> (Post-doc, Mila/McGill University, Canada)
+* <b>Vincent François-Lavet</b> (Mila/McGill University, Canada)
 * <b>Andreea Gane</b> (Massachusetts Institute of Technology, USA)
 * <b>Jack Goetz</b> (Univerisity of Michigan, USA)
 * <b>David Jensen</b> (Univerisity of Massachusetts, USA)
@@ -115,7 +115,7 @@ Tentative program:
 * <b>Terrence Sejnowski</b> (The Salk Institute, USA), co-founder and president of the NeurIPS foundation
 * <b>Yale Song</b> (Massachusetts Institute of Technology, USA)
 * <b>Masashi Sugiyama</b> (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
-* <b>Sharan Vaswani</b> (Post-doc, Mila, Canada)
+* <b>Sharan Vaswani</b> (Mila, Canada)
 * <b>Fabio Viola</b> (Google, USA)
 * <b>Yair Weiss</b> (Hebrew University, Israel), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Junzi Zhang</b> (Stanford University, USA)
