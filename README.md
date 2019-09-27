@@ -12,7 +12,7 @@ Our biggest goal is to help you publish papers at next year's NeurIPS conference
 
 Your ticket to NeurIPS 2020? Maybe!
 
-Since this is an exercise in writing good NeurIPS papers, the authors are requested to submit papers respecting the NeurIPS format and instructions: [https://nips.cc/Conferences/2019/CallForPapers](https://nips.cc/Conferences/2019/CallForPapers). **Note that for conference track, the page limit is 8 pages for content. But we also accept shorter papers as long as the idea is explained clearly.** We welcome submissions by first authors with no prior accepted publication at NeurIPS (main conference).
+Since this is an exercise in writing good NeurIPS papers, the authors are requested to submit papers respecting the NeurIPS format and instructions: [https://nips.cc/Conferences/2019/CallForPapers](https://nips.cc/Conferences/2019/CallForPapers). **The page limit is 8 pages + extra references, but shorter papers with enough good contents are welcome.** We restrict submissions to first authors with no prior accepted publication at NeurIPS (main conference) and which are **not under review or accepted elsewhere**. Papers having been rejected before should be revised before submission to New In ML. We recommend sharing previous reviews with your new reviewers.
 
 All topics related to machine learning are welcome. They include but not limited to:
 - Adversarial Machine Learning
@@ -28,7 +28,7 @@ All topics related to machine learning are welcome. They include but not limited
 
 Paper submission is through CMT platform: [https://cmt3.research.microsoft.com/NewInML2019](https://cmt3.research.microsoft.com/NewInML2019)
 
-Accepted papers will be reviewed by expert NeurIPS reviewers and, if accepted, will get a talk or a poster at the workshop and expect coaching. <b> This will NOT count as an official publication, so papers submitted can then be revised and submitted to NeurIPS 2020! </b>
+Accepted papers will be reviewed by expert NeurIPS reviewers and, if accepted, will get a talk or a poster at the workshop and expect coaching. <b> This will NOT count as an official NeurIPS publication, so papers submitted can then be revised and submitted to NeurIPS 2020, but you should check the policy of other conferences if you want to re-submit elsewhere.</b>
 
 # Best Paper Awards
 
