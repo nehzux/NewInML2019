@@ -112,7 +112,7 @@ Tentative program:
 * <b>Gertjan Van den Burg</b> (Alan Turing Inst. UK)
 * <b>Mark van der Wilk</b> (PROWLER.io, UK)
 * <b>Fabio Viola</b> (Google, USA)
-* <b>Liwei Wang</b> (Peking University, China)
+* <b>Liwei Wang</b> (Peking University, China), area chair of NeurIPS
 * <b>Yair Weiss</b> (Hebrew University, Israel), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Max Welling</b> (University of Amsterdam, The Netherlands)
 * <b>Grigory Yaroslavtsev</b> (Indiana University Bloomington, USA)
@@ -162,7 +162,7 @@ Tentative program:
 * <b>Mark van der Wilk</b> (PROWLER.io, UK)
 * <b>Sharan Vaswani</b> (Mila, Canada)
 * <b>Fabio Viola</b> (Google, USA)
-* <b>Liwei Wang</b> (Peking University, China)
+* <b>Liwei Wang</b> (Peking University, China), area chair of NeurIPS
 * <b>Yair Weiss</b> (Hebrew University, Israel), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Grigory Yaroslavtsev</b> (Indiana University Bloomington, USA)
 * <b>Junzi Zhang</b> (Stanford University, USA)
