@@ -77,26 +77,41 @@ Tentative program:
 * <b>Thomas G. Dietterich</b> (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Tanner Fiez</b> (University of Washington, USA)
 * <b>Nicholas Foti</b> (University of Washington, USA)
+* <b>Roman Garnett</b> (University of Washington, USA)
 * <b>Andreea Gane</b> (Massachusetts Institute of Technology, USA)
 * <b>Jack Goetz</b> (Univerisity of Michigan, USA)
+* <b>Kohei Hayashi</b> (Preferred Networks, Japan)
 * <b>David Jensen</b> (Univerisity of Massachusetts, USA)
 * <b>David Kale</b> (University of South California, USA)
 * <b>Been Kim</b> (Google Brain), area chair of NeurIPS
+* <b>Aditya Kusupati</b> (University of Washington, USA)
 * <b>Hugo Larochelle</b> (Google Brain), program chair of NeurIPS
 * <b>Neil Lawrence</b> (University of Manchester, UK), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Nicholas Monath</b> (University of Massachussetts, USA)
+* <b>Naila Murray</b> (Neverlabs)
+* <b>Ali Mousavi</b> (Google AI, USA)
 * <b>Michael Mozer</b> (University of Colorado, USA), NeurIPS foundation secretary
+* <b>Charles Onu</b> (Mila, Canada)
+* <b>Bastian Rieck</b> (ETH Zurich, Switzerland)
+* <b>David Ross</b> (University of Toronto, Canada)
 * <b>Francisco Jesus Rodriguez Ruiz</b> (Columbia University, USA)
-* <b>Karhik Abinav Sankararaman (Facebook, USA)
+* <b>Karhik Abinav Sankararaman</b> (Facebook, USA)
+* <b>Aaron Schein</b> (Columbia University, USA)
 * <b>Xada Schofield</b> (Harvey Mudd College, USA)
 * <b>Terrence Sejnowski</b> (The Salk Institute, USA), co-founder and president of the NeurIPS foundation
 * <b>Yale Song</b> (Massachusetts Institute of Technology, USA)
 * <b>Masashi Sugiyama</b> (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Gertjan Van den Burg</b> (Alan Turing Inst. UK)
 * <b>Fabio Viola</b> (Google, USA)
+* <b>Liwei Wang</b> (Peking University, China)
 * <b>Yair Weiss</b> (Hebrew University, Israel), former NeurIPS program chair and general chair, NeurIPS board advisor
+* <b>Grigory Yaroslavtsev</b> (Indiana University Bloomington, USA)
 * <b>Junzi Zhang</b> (Stanford University, USA)
+* <b>Tong Zhang</b> (Hong Kong University of Science and Technology, China), area chair of NeurIPS
 
 # Reviewers
 
+* <b>Jacob Andreas</b> (UC Berkeley, USA)
 * <b>Yoshua Bengio</b> (University of Montréal and Mila, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Benjamin Bloem-Reddy</b> (University of Oxford, UK)
 * <b>Irene Chen</b> (Massachusetts Institute of Technology, USA)
@@ -104,21 +119,35 @@ Tentative program:
 * <b>Tanner Fiez</b> (University of Washington, USA)
 * <b>Vincent François-Lavet</b> (Mila/McGill University, Canada)
 * <b>Andreea Gane</b> (Massachusetts Institute of Technology, USA)
+* <b>Roman Garnett</b> (University of Washington, USA)
 * <b>Jack Goetz</b> (Univerisity of Michigan, USA)
+* <b>Kohei Hayashi</b> (Preferred Networks, Japan)
 * <b>David Jensen</b> (Univerisity of Massachusetts, USA)
 * <b>David Kale</b> (University of South California, USA)
+* <b>Aditya Kusupati</b> (University of Washington, USA)
 * <b>Neil Lawrence</b> (University of Manchester, UK), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Pfeiffer Michael</b> (Bosch, Germany)
+* <b>Nicholas Monath</b> (University of Massachussetts, USA)
+* <b>Naila Murray</b> (Neverlabs)
+* <b>Ali Mousavi</b> (Google AI, USA)
 * <b>Michael Mozer</b> (University of Colorado, USA), NeurIPS foundation secretary
+* <b>Bastian Rieck</b> (ETH Zurich, Switzerland)
+* <b>David Ross</b> (University of Toronto, Canada)
 * <b>Francisco Jesus Rodriguez Ruiz</b> (Columbia University, USA)
-* <b>Karhik Abinav Sankararaman (Facebook, USA)
+* <b>Karhik Abinav Sankararaman</b> (Facebook, USA)
+* <b>Aaron Schein</b> (Columbia University, USA)
 * <b>Xada Schofield</b> (Harvey Mudd College, USA)
 * <b>Terrence Sejnowski</b> (The Salk Institute, USA), co-founder and president of the NeurIPS foundation
 * <b>Yale Song</b> (Massachusetts Institute of Technology, USA)
 * <b>Masashi Sugiyama</b> (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Gertjan Van den Burg</b> (Alan Turing Inst. UK)
 * <b>Sharan Vaswani</b> (Mila, Canada)
 * <b>Fabio Viola</b> (Google, USA)
+* <b>Liwei Wang</b> (Peking University, China)
 * <b>Yair Weiss</b> (Hebrew University, Israel), former NeurIPS program chair and general chair, NeurIPS board advisor
+* <b>Grigory Yaroslavtsev</b> (Indiana University Bloomington, USA)
 * <b>Junzi Zhang</b> (Stanford University, USA)
+* <b>Tong Zhang</b> (Hong Kong University of Science and Technology, China), area chair of NeurIPS
 
 
 # Organizers
