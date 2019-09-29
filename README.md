@@ -17,6 +17,7 @@ Since this is an exercise in writing good NeurIPS papers, the authors are reques
 All topics related to machine learning are welcome. They include but not limited to:
 - Adversarial Machine Learning
 - Automated Machine Learning
+- Bayesian Machine Learning
 - Causal Inference
 - Deep Learning Theory
 - Deep Learning Interpretability
