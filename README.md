@@ -99,7 +99,7 @@ Tentative program:
 * <b>Neil Lawrence</b> (University of Manchester, UK), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Honglak Lee</b> (University of Michigan, USA)
 * <b>Lucas Maystre</b> (Spotify, UK)
-* <b>Daniel Joseph McDonald<b> (University of Indiana, USA)
+* <b>Daniel Joseph McDonald</b> (University of Indiana, USA)
 * <b>Nicholas Monath</b> (University of Massachussetts, USA)
 * <b>Naila Murray</b> (Neverlabs)
 * <b>Ali Mousavi</b> (Google AI, USA)
@@ -166,7 +166,7 @@ Tentative program:
 * <b>David Kale</b> (University of South California, USA)
 * <b>Aditya Kusupati</b> (University of Washington, USA)
 * <b>Neil Lawrence</b> (University of Manchester, UK), former NeurIPS program chair and general chair, NeurIPS board member
-* <b>Daniel Joseph McDonald<b> (University of Indiana, USA)
+* <b>Daniel Joseph McDonald</b> (University of Indiana, USA)
 * <b>Dina Machuve</b> (NM-AIST, Tanzania)
 * <b>Lucas Maystre</b> (Spotify, UK)
 * <b>Pfeiffer Michael</b> (Bosch, Germany)
