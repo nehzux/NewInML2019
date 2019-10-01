@@ -151,6 +151,7 @@ Tentative program:
 * <b>Irene Chen</b> (Massachusetts Institute of Technology, USA)
 * <b>Aditya Deshpande</b> (University of Illinois at Urbana-Champaign, USA)
 * <b>Thomas G. Dietterich</b> (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
+* <b>Sebastian Farquhar</b> (Oxford, UK)
 * <b>Tanner Fiez</b> (University of Washington, USA)
 * <b>Vincent François-Lavet</b> (Mila/McGill University, Canada)
 * <b>Jie Fu</b> (Mila, Canada)
