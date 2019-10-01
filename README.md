@@ -93,11 +93,11 @@ Tentative program:
 * <b>Wei-Ning Hsu</b> (MIT, USA)
 * <b>David Jensen</b> (Univerisity of Massachusetts, USA)
 * <b>David Kale</b> (University of South California, USA)
-* <b>Been Kim</b> (Google Brain), area chair of NeurIPS
+* <b>Been Kim</b> (Google Brain), NeurIPS area chair
 * <b>Aditya Kusupati</b> (University of Washington, USA)
 * <b>Hugo Larochelle</b> (Google Brain), program chair of NeurIPS
 * <b>Neil Lawrence</b> (University of Manchester, UK), former NeurIPS program chair and general chair, NeurIPS board member
-* <b>Honglak Lee</b> (University of Michigan, USA)
+* <b>Honglak Lee</b> (University of Michigan, USA), NeurIPS senior area chair
 * <b>Lucas Maystre</b> (Spotify, UK)
 * <b>Daniel Joseph McDonald</b> (University of Indiana, USA)
 * <b>Nicholas Monath</b> (University of Massachussetts, USA)
@@ -132,12 +132,12 @@ Tentative program:
 * <b>Mark van der Wilk</b> (PROWLER.io, UK)
 * <b>Fabio Viola</b> (Google, USA)
 * <b>Svitlana Volkova</b> (Johns Hopkins University, USA)
-* <b>Liwei Wang</b> (Peking University, China), area chair of NeurIPS
+* <b>Liwei Wang</b> (Peking University, China), NeurIPS area chair
 * <b>Yair Weiss</b> (Hebrew University, Israel), former NeurIPS program chair and general chair, NeurIPS board advisor
-* <b>Max Welling</b> (University of Amsterdam, The Netherlands)
+* <b>Max Welling</b> (University of Amsterdam, The Netherlands), NeurIPS board member
 * <b>Grigory Yaroslavtsev</b> (Indiana University Bloomington, USA)
 * <b>Junzi Zhang</b> (Stanford University, USA)
-* <b>Tong Zhang</b> (Hong Kong University of Science and Technology, China), area chair of NeurIPS
+* <b>Tong Zhang</b> (Hong Kong University of Science and Technology, China), NeurIPS area chair
 
 # Reviewers
 
@@ -203,11 +203,11 @@ Tentative program:
 * <b>Sharan Vaswani</b> (Mila, Canada)
 * <b>Fabio Viola</b> (Google, USA)
 * <b>Svitlana Volkova</b> (Johns Hopkins University, USA)
-* <b>Liwei Wang</b> (Peking University, China), area chair of NeurIPS
+* <b>Liwei Wang</b> (Peking University, China), NeurIPS area chair
 * <b>Yair Weiss</b> (Hebrew University, Israel), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Grigory Yaroslavtsev</b> (Indiana University Bloomington, USA)
 * <b>Junzi Zhang</b> (Stanford University, USA)
-* <b>Tong Zhang</b> (Hong Kong University of Science and Technology, China), area chair of NeurIPS
+* <b>Tong Zhang</b> (Hong Kong University of Science and Technology, China), NeurIPS area chair
 
 
 # Organizers
