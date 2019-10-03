@@ -71,7 +71,7 @@ Tentative program:
 
 # Mentors
 
-* <b>Nimar Arora</b> (Bayesian Logic, Inc. USA)
+* <b>Nimar Arora</b> (Facebook, USA)
 * <b>Paul Azunre</b> (Algorine, USA)
 * <b>Philippe Beaudoin</b> (Element AI, Canada)
 * <b>Yoshua Bengio</b> (University of Montréal and MILA, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
@@ -142,7 +142,7 @@ Tentative program:
 # Reviewers
 
 * <b>Jacob Andreas</b> (UC Berkeley, USA)
-* <b>Nimar Arora</b> (Bayesian Logic, Inc. USA)
+* <b>Nimar Arora</b> (Facebook, USA)
 * <b>Paul Azunre</b> (Algorine, USA)
 * <b>Yoshua Bengio</b> (University of Montréal and Mila, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Benjamin Bloem-Reddy</b> (University of Oxford, UK)
