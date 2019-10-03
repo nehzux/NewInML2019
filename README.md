@@ -170,7 +170,7 @@ Tentative program:
 * <b>Daniel Joseph McDonald</b> (University of Indiana, USA)
 * <b>Dina Machuve</b> (NM-AIST, Tanzania)
 * <b>Lucas Maystre</b> (Spotify, UK)
-* <b>Pfeiffer Michael</b> (Bosch, Germany)
+* <b>Michael Pfeiffer</b> (Bosch Center for Artificial Intelligence, Germany)
 * <b>Nicholas Monath</b> (University of Massachussetts, USA)
 * <b>Naila Murray</b> (Neverlabs)
 * <b>Ali Mousavi</b> (Google AI, USA)
