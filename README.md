@@ -101,7 +101,7 @@ Tentative program:
 * <b>Lucas Maystre</b> (Spotify, UK)
 * <b>Daniel Joseph McDonald</b> (University of Indiana, USA)
 * <b>Nicholas Monath</b> (University of Massachussetts, USA)
-* <b>Naila Murray</b> (Neverlabs)
+* <b>Naila Murray</b> (NAVER LABS, France)
 * <b>Ali Mousavi</b> (Google AI, USA)
 * <b>Michael Mozer</b> (University of Colorado, USA), NeurIPS foundation secretary
 * <b>Ehimwenma Nosakhare</b> (MIT, USA)
@@ -172,7 +172,7 @@ Tentative program:
 * <b>Lucas Maystre</b> (Spotify, UK)
 * <b>Michael Pfeiffer</b> (Bosch Center for Artificial Intelligence, Germany)
 * <b>Nicholas Monath</b> (University of Massachussetts, USA)
-* <b>Naila Murray</b> (Neverlabs)
+* <b>Naila Murray</b> (NAVER LABS, France)
 * <b>Ali Mousavi</b> (Google AI, USA)
 * <b>Michael Mozer</b> (University of Colorado, USA), NeurIPS foundation secretary
 * <b>Ehimwenma Nosakhare</b> (MIT, USA)
