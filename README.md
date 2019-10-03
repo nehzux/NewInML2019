@@ -75,7 +75,7 @@ Tentative program:
 * <b>Paul Azunre</b> (Algorine, USA)
 * <b>Philippe Beaudoin</b> (Element AI, Canada)
 * <b>Yoshua Bengio</b> (University of Montréal and MILA, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
-* <b>Benjamin Bloem-Reddy</b> (University of Oxford, UK)
+* <b>Benjamin Bloem-Reddy</b> (University of British Columbia, Canada)
 * <b>Marc Brockschmidt</b> (Microsoft Research, UK)
 * <b>Carlo Ciliberto</b> (Imperial College London, UK)
 * <b>Irene Chen</b> (Massachusetts Institute of Technology, USA)
@@ -145,7 +145,7 @@ Tentative program:
 * <b>Nimar Arora</b> (Facebook, USA)
 * <b>Paul Azunre</b> (Algorine, USA)
 * <b>Yoshua Bengio</b> (University of Montréal and Mila, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
-* <b>Benjamin Bloem-Reddy</b> (University of Oxford, UK)
+* <b>Benjamin Bloem-Reddy</b> (University of British Columbia, Canada)
 * <b>Marc Brockschmidt</b> (Microsoft Research, UK)
 * <b>Carlo Ciliberto</b> (Imperial College London, UK)
 * <b>Irene Chen</b> (Massachusetts Institute of Technology, USA)
