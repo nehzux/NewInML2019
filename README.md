@@ -92,7 +92,7 @@ Tentative program:
 * <b>Kohei Hayashi</b> (Preferred Networks, Japan)
 * <b>Wei-Ning Hsu</b> (MIT, USA)
 * <b>David Jensen</b> (Univerisity of Massachusetts, USA)
-* <b>David Kale</b> (University of South California, USA)
+* <b>David Kale</b> (Netflix, USA)
 * <b>Been Kim</b> (Google Brain), NeurIPS area chair
 * <b>Aditya Kusupati</b> (University of Washington, USA)
 * <b>Hugo Larochelle</b> (Google Brain), program chair of NeurIPS
@@ -164,7 +164,7 @@ Tentative program:
 * <b>Kohei Hayashi</b> (Preferred Networks, Japan)
 * <b>Wei-Ning Hsu</b> (MIT, USA)
 * <b>David Jensen</b> (Univerisity of Massachusetts, USA)
-* <b>David Kale</b> (University of South California, USA)
+* <b>David Kale</b> (Netflix, USA)
 * <b>Aditya Kusupati</b> (University of Washington, USA)
 * <b>Neil Lawrence</b> (University of Cambridge, UK), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Daniel Joseph McDonald</b> (University of Indiana, USA)
