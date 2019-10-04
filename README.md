@@ -61,7 +61,7 @@ Tentative program:
 |11:00 - 12:00| Four contributed talks of 10 min + 5 min questions |
 |12:00 - 14:00| Award ceremony <br/> Lunch buffet<br/> Poster session  |
 |14:00 - 14:15| Welcome back and announcements (organizers)|
-|14:15 - 15:00| **Invited Talk:** Corinna Cortes (to be confirmed)|
+|14:15 - 15:00| **Invited Talk:** TBA
 |15:00 - 16:00| Four contributed talks of 10 min + 5 min questions|
 |16:00 - 16:30| Break and poster session|
 |16:30 - 17:30| Mentor panel and questions|
