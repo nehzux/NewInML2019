@@ -119,7 +119,7 @@ Tentative program:
 * <b>Karhik Abinav Sankararaman</b> (Facebook, USA)
 * <b>Suchi Saria</b> (Johns Hopkins University, USA)
 * <b>Aaron Schein</b> (Columbia University, USA)
-* <b>Xada Schofield</b> (Harvey Mudd College, USA)
+* <b>Xanda Schofield</b> (Harvey Mudd College, USA)
 * <b>Terrence Sejnowski</b> (The Salk Institute, USA), co-founder and president of the NeurIPS foundation
 * <b>Or Sharir</b> (Hebrew University of Jerusalem, Israel)
 * <b>Rui Shu</b> (Stanford, USA)
@@ -189,7 +189,7 @@ Tentative program:
 * <b>Karhik Abinav Sankararaman</b> (Facebook, USA)
 * <b>Suchi Saria</b> (Johns Hopkins University, USA)
 * <b>Aaron Schein</b> (Columbia University, USA)
-* <b>Xada Schofield</b> (Harvey Mudd College, USA)
+* <b>Xanda Schofield</b> (Harvey Mudd College, USA)
 * <b>Terrence Sejnowski</b> (The Salk Institute, USA), co-founder and president of the NeurIPS foundation
 * <b>Or Sharir</b> (Hebrew University of Jerusalem, Israel)
 * <b>Rui Shu</b> (Stanford, USA)
