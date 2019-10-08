@@ -128,6 +128,7 @@ Tentative program:
 * <b>Terrence Sejnowski</b> (The Salk Institute, USA), co-founder and president of the NeurIPS foundation
 * <b>Or Sharir</b> (Hebrew University of Jerusalem, Israel)
 * <b>Rui Shu</b> (Stanford, USA)
+* <b>Max Simchowitz</b> (UC Berkeley, USA)
 * <b>Yale Song</b> (Massachusetts Institute of Technology, USA)
 * <b>Masashi Sugiyama</b> (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Yifan Sun</b> (INRIA, France)
@@ -206,6 +207,7 @@ Tentative program:
 * <b>Terrence Sejnowski</b> (The Salk Institute, USA), co-founder and president of the NeurIPS foundation
 * <b>Or Sharir</b> (Hebrew University of Jerusalem, Israel)
 * <b>Rui Shu</b> (Stanford, USA)
+* <b>Max Simchowitz</b> (UC Berkeley, USA)
 * <b>Yale Song</b> (Massachusetts Institute of Technology, USA)
 * <b>Masashi Sugiyama</b> (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Yifan Sun</b> (INRIA, France)
