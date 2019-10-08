@@ -77,8 +77,9 @@ Tentative program:
 * <b>Yoshua Bengio</b> (University of Montréal and MILA, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Benjamin Bloem-Reddy</b> (University of British Columbia, Canada)
 * <b>Marc Brockschmidt</b> (Microsoft Research, UK)
-* <b>Carlo Ciliberto</b> (Imperial College London, UK)
+* <b>Wei-Lun Harry Chao</b> (Ohio State University, USA)
 * <b>Irene Chen</b> (Massachusetts Institute of Technology, USA)
+* <b>Carlo Ciliberto</b> (Imperial College London, UK)
 * <b>Corinna Cortes</b> (Google Research, New York, USA), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Aditya Deshpande</b> (University of Illinois at Urbana-Champaign, USA)
 * <b>Thomas G. Dietterich</b> (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
@@ -147,8 +148,9 @@ Tentative program:
 * <b>Yoshua Bengio</b> (University of Montréal and Mila, Canada), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Benjamin Bloem-Reddy</b> (University of British Columbia, Canada)
 * <b>Marc Brockschmidt</b> (Microsoft Research, UK)
-* <b>Carlo Ciliberto</b> (Imperial College London, UK)
+* <b>Wei-Lun Harry Chao</b> (Ohio State University, USA)
 * <b>Irene Chen</b> (Massachusetts Institute of Technology, USA)
+* <b>Carlo Ciliberto</b> (Imperial College London, UK)
 * <b>Aditya Deshpande</b> (University of Illinois at Urbana-Champaign, USA)
 * <b>Thomas G. Dietterich</b> (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Sebastian Farquhar</b> (Oxford, UK)
