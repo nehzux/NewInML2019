@@ -165,6 +165,7 @@ Tentative program:
 * <b>Roman Garnett</b> (Washington University in St. Louis, USA)
 * <b>Adrià Garriga</b> (University of Cambridge, UK)
 * <b>Tim Genewein</b> (DeepMind, UK)
+* <b>Gauthier Gidel</b> (Université de Montréal, Canada)
 * <b>Erin Grant</b> (UC Berkeley, USA)
 * <b>Jack Goetz</b> (Univerisity of Michigan, USA)
 * <b>Kohei Hayashi</b> (Preferred Networks, Japan)
