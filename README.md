@@ -85,8 +85,9 @@ Tentative program:
 * <b>Thomas G. Dietterich</b> (Oregon State University, USA), former NeurIPS program chair and general chair, NeurIPS board advisor
 * <b>Tanner Fiez</b> (University of Washington, USA)
 * <b>Nicholas Foti</b> (University of Washington, USA)
-* <b>Roman Garnett</b> (Washington University in St. Louis, USA)
 * <b>Andreea Gane</b> (Google Research, USA)
+* <b>Roman Garnett</b> (Washington University in St. Louis, USA)
+* <b>Adrià Garriga</b> (University of Cambridge, UK)
 * <b>Tim Genewein</b> (DeepMind, UK)
 * <b>Jack Goetz</b> (Univerisity of Michigan, USA)
 * <b>Erin Grant</b> (UC Berkeley, USA)
@@ -161,6 +162,7 @@ Tentative program:
 * <b>Angus Galloway</b> (University of Guelph, Canada)
 * <b>Andreea Gane</b> (Google Research, USA)
 * <b>Roman Garnett</b> (Washington University in St. Louis, USA)
+* <b>Adrià Garriga</b> (University of Cambridge, UK)
 * <b>Tim Genewein</b> (DeepMind, UK)
 * <b>Erin Grant</b> (UC Berkeley, USA)
 * <b>Jack Goetz</b> (Univerisity of Michigan, USA)
