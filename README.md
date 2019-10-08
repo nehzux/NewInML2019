@@ -106,6 +106,7 @@ Tentative program:
 * <b>Naila Murray</b> (NAVER LABS, France)
 * <b>Ali Mousavi</b> (Google AI, USA)
 * <b>Michael Mozer</b> (University of Colorado, USA), NeurIPS foundation secretary
+* <b>Radford Neal</b> (University of Toronto, Canada)
 * <b>Ehimwenma Nosakhare</b> (MIT, USA)
 * <b>Dino Oglic</b> (King's College London, UK)
 * <b>Gottesman Omer</b> (Harvard University, USA)
@@ -182,6 +183,7 @@ Tentative program:
 * <b>Naila Murray</b> (NAVER LABS, France)
 * <b>Ali Mousavi</b> (Google AI, USA)
 * <b>Michael Mozer</b> (University of Colorado, USA), NeurIPS foundation secretary
+* <b>Radford Neal</b> (University of Toronto, Canada)
 * <b>Ehimwenma Nosakhare</b> (MIT, USA)
 * <b>Dino Oglic</b> (King's College London, UK)
 * <b>Gottesman Omer</b> (Harvard University, USA)
