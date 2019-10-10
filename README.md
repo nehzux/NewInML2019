@@ -98,6 +98,7 @@ Tentative program:
 * <b>Been Kim</b> (Google Brain), NeurIPS area chair
 * <b>Antti Koskela</b> (University of Helsinki, Finland)
 * <b>Aditya Kusupati</b> (University of Washington, USA)
+* <b>James T. Kwok</b> (Hong Kong University of Science and Technology, China), NeurIPS area chair
 * <b>Hugo Larochelle</b> (Google Brain), program chair of NeurIPS
 * <b>Neil Lawrence</b> (University of Cambridge, UK), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Honglak Lee</b> (University of Michigan, USA), NeurIPS senior area chair
