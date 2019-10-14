@@ -237,6 +237,7 @@ Tentative program:
 
 * Zhen Xu (Ecole Polytechnique/4Paradigm [zhen.xu@polytechnique.edu](zhen.xu@polytechnique.edu))
 * Zhengying Liu (U. PSud/INRIA, Université Paris-Saclay)
+* Sparkle Russell (Genentech/Roche Pharmaceuticals)
 * Xiawei Guo (4Paradigm)
 
 # Advisors
