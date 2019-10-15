@@ -102,6 +102,7 @@ Tentative program:
 * <b>Hugo Larochelle</b> (Google Brain), program chair of NeurIPS
 * <b>Neil Lawrence</b> (University of Cambridge, UK), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Honglak Lee</b> (University of Michigan, USA), NeurIPS senior area chair
+* <b>Richard Lippman</b> (MIT, USA)
 * <b>Lucas Maystre</b> (Spotify, UK)
 * <b>Daniel Joseph McDonald</b> (University of Indiana, USA)
 * <b>Nicholas Monath</b> (University of Massachussetts, USA)
@@ -182,6 +183,7 @@ Tentative program:
 * <b>Antti Koskela</b> (University of Helsinki, Finland)
 * <b>Aditya Kusupati</b> (University of Washington, USA)
 * <b>Neil Lawrence</b> (University of Cambridge, UK), former NeurIPS program chair and general chair, NeurIPS board member
+* <b>Richard Lippman</b> (MIT, USA)
 * <b>Daniel Joseph McDonald</b> (University of Indiana, USA)
 * <b>Dina Machuve</b> (NM-AIST, Tanzania)
 * <b>Lucas Maystre</b> (Spotify, UK)
