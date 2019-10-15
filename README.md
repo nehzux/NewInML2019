@@ -243,6 +243,7 @@ Tentative program:
 # Advisors
 
 * Isabelle Guyon (U. PSud/INRIA, Université Paris-Saclay and ChaLearn)
+* Samy Bengio (Google Brain, USA)
 * Wei-Wei Tu (4Paradigm, ChaLearn)
 
 # Sponsors
