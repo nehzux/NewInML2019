@@ -185,7 +185,6 @@ Tentative program:
 * <b>Neil Lawrence</b> (University of Cambridge, UK), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Richard Lippman</b> (MIT, USA)
 * <b>Daniel Joseph McDonald</b> (University of Indiana, USA)
-* <b>Dina Machuve</b> (NM-AIST, Tanzania)
 * <b>Lucas Maystre</b> (Spotify, UK)
 * <b>Nicholas Monath</b> (University of Massachussetts, USA)
 * <b>Naila Murray</b> (NAVER LABS, France)
