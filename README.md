@@ -136,6 +136,7 @@ Tentative program:
 * <b>Yale Song</b> (Microsoft Research, Redmond, USA)
 * <b>Masashi Sugiyama</b> (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Yifan Sun</b> (INRIA, France)
+* <b>Yi Tay</b> (Nanyang Technological University, Singapore)
 * <b>Florian Tramer</b> (Stanford University, USA)
 * <b>Jonathan Uesato</b> (MIT AI labs, USA)
 * <b>Arash Vahdat</b> (NVIDIA, USA)
@@ -217,6 +218,7 @@ Tentative program:
 * <b>Yale Song</b> (Microsoft Research, Redmond, USA)
 * <b>Masashi Sugiyama</b> (RIKEN and University of Tokyo, Japan), former NeurIPS program chair and general chair, NeurIPS board member
 * <b>Yifan Sun</b> (INRIA, France)
+* <b>Yi Tay</b> (Nanyang Technological University, Singapore)
 * <b>Florian Tramer</b> (Stanford University, USA)
 * <b>Ivor Tsang</b> (University of Technology Sydney, Australia), NeurIPS area chair
 * <b>Jonathan Uesato</b> (MIT AI labs, USA)
