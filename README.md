@@ -40,8 +40,7 @@ Accepted papers will be reviewed by expert NeurIPS reviewers and, if accepted, w
 # Important Dates
 
 - October 15th, 2019 (Anywhere on Earth): Paper submission deadline
-- ~Nov 1st, 2019: Author notification deadline~
-- Nov 8th, 2019: Author notification deadline
+- Nov 8th, 2019: Author notification deadline (Update: Oral decisions are made. We will contact these authors first.)
 - December 09th, 2019: Session day
 
 Within quota limits, the authors of the best accepted papers will be receiving the possibility of registering to NeurIPS and will be able to apply for travel awards, to be attributed according to merit and need.
