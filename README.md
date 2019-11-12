@@ -255,3 +255,18 @@ Tentative program:
 
 <img src="http://ccc.inaoep.mx/~hugojair/imgs/4p.png" alt="drawing" width="150"/>
 <img src="http://sunai.uoc.edu/chalearnLAP/img/ChalearnLogo.png" alt="drawing" width="150"/>
+
+# Oral papers
+
+* Learning to learn for Neural Architecture Search, Jorge Gomez Robles
+* Edge Contraction Pooling for Graph Neural Networks, Frederik Diehl 
+* von Neumann-Morgenstern and Savage Theorems for Causal Decision Making, Mauricio Gonzalez-Soto
+* AttaCut: A Fast and Accurate Neural Thai Word Segmenter, Pattarawat Chormai, Ponrawee Prasertsom, Attapol Rutherford
+* Explaining with Impact: A Machine-centric Strategy to Quantify the Performance of Explainability Algorithms, Zhong Qiu Lin, Mohammad Javad Shafiee, Stanislav Bochkarev, Michael St Jules, Xiao Yu Wang, Alexander Wong
+* Semi-Supervised Ordinal Regression Based on Empirical Risk Minimization, Taira Tsuchiya, Nontawat Charoenphakdee, Issei Sato, Masashi Sugiyama
+* Augmenting learning using symmetry in a biologically-inspired domain, Shruti Mishra, Abbas Abdolmaleki, Arthur Guez, Piotr Trochim, Doina Precup
+* Statistical Learning and Scalability of Additive Models with Total Variation Regularization, Shin Matsushima
+* Popularity Agnostic Evaluation of Knowledge Graph Embeddings, Aisha Mohamed, Shameem Parambath, Zoi Kaoudi, Ashraf Aboulnaga
+* A Corpus of Biology Analogy Questions as a Challenge for Explainable AI, Han Lin Aung, Justin Xu, Sajana Weerawardhena, Vinay Chaudhri
+* OpenGPT-2: Replicating a 1.5 Billion Parameter Language Model, Vanya Cohen, Stefanie Tellex, Ellie Pavlick, Aaron Gokaslan
+* Sensitivity Analysis of Deep Reinforcement Learning for Septic Treatment, Ming Yu Lu
