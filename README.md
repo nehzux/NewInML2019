@@ -54,10 +54,9 @@ Tentative program:
 | **Time**  | **Event**|
 |-------------------------------------------|-----------------------------------------------------------------------------------|
 |07:00 - 09:00| Mentoring breakfast  |
-|09:00 - 09:15| **Opening address:**  Terrence Sejnowski |
-|09:15 - 10:45|  **Invited Talk:** Thomas G. Dietterich |
-|10:45 - 11:00| Break |
-|11:00 - 13:00| Six contributed talks of 10 min + 10 min questions |
+|09:00 - 09:20| **Opening address:**  Terrence Sejnowski |
+|09:20 - 10:20| **Invited Talk:** Thomas G. Dietterich |
+|10:20 - 13:00| Eight contributed talks of 10 min + 10 min questions |
 |13:00 - 14:30| Lunch and poster session |
 |14:30 - 15:30| **Panel Discussion** |
 |15:30 - 16:50| Four contributed talks of 10 min + 10 min questions|
