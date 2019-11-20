@@ -54,7 +54,7 @@ Tentative program:
 
 | **Time**  | **Event**|
 |-------------------------------------------|-----------------------------------------------------------------------------------|
-|07:30 - 09:00| Mentoring breakfast  |
+|07:00 - 09:00| Mentoring breakfast  |
 |09:00 - 09:15| **Opening address:**  Terrence Sejnowski |
 |09:15 - 10:45|  **Invited Talk:** Thomas G. Dietterich |
 |10:45 - 11:00| Break |
