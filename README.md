@@ -56,7 +56,7 @@ Tentative program:
 |07:00 - 09:00| Mentoring breakfast  |
 |09:00 - 09:15| **Opening address:**  Terrence Sejnowski |
 |09:15 - 10:45| **Invited Talk:** Thomas G. Dietterich |
-|10:45 - 11:00| **Invited Talk:** Thomas G. Dietterich |
+|10:45 - 11:00| Break |
 |11:00 - 12:30| Six contributed talks of 10 min + 5 min questions |
 |12:30 - 14:00| Lunch and poster session |
 |14:00 - 15:00| **Panel Discussion** |
