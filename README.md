@@ -1,4 +1,4 @@
-### The first  forum for newcomers to ML is co-located with NeurIPS, Vancouver, BC, Canada, Monday, December 9th, 2019.
+### The first  forum for newcomers to ML is co-located with NeurIPS, East Meeting Level 11,12, Vancouver Convention Center, Vancouver, BC, Canada, Monday, December 9th, 2019.
 
 # Mission
 
@@ -44,7 +44,6 @@ Accepted papers will be reviewed by expert NeurIPS reviewers and, if accepted, w
 - December 9th, 2019: Session day
 
 Within quota limits, the authors of the best accepted papers will be receiving the possibility of registering to NeurIPS and will be able to apply for travel awards, to be attributed according to merit and need.
-
 
 # Program
 
