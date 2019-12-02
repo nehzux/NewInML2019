@@ -57,11 +57,11 @@ Tentative program:
 |09:00 - 09:15| **Opening address:**  Terrence Sejnowski |
 |09:15 - 10:45| **Invited Talk:** Thomas G. Dietterich |
 |10:45 - 11:00| Break |
-|11:00 - 12:30| Six contributed talks of 10 min + 5 min questions |
+|11:00 - 12:30| Eight contributed talks of 10 min + questions |
 |12:30 - 14:00| Lunch and poster session |
-|14:00 - 15:00| **Panel Discussion** |
-|15:00 - 16:30| Six contributed talks of 10 min + 5 min questions|
-|16:30 - 16:45| Closing remarks|
+|14:00 - 15:00| Four contributed talks of 10 min + questions |
+|15:00 - 16:00| **Panel Discussion**|
+|16:00 - 16:30| Award Ceremony, Closing remarks|
 
 
 # Mentors
