@@ -250,6 +250,7 @@ Tentative program:
 
 <img src="http://ccc.inaoep.mx/~hugojair/imgs/4p.png" alt="drawing" width="150"/>
 <img src="http://sunai.uoc.edu/chalearnLAP/img/ChalearnLogo.png" alt="drawing" width="150"/>
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="drawing" width="150"/>
 
 # Oral papers
 
