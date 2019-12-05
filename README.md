@@ -59,8 +59,7 @@ Tentative program:
 |11:00 - 12:30| Six contributed talks of 10 min + 5 min questions |
 |12:30 - 14:00| Lunch and poster session |
 |14:00 - 15:00| Four contributed talks of 10 min + 5 min questions |
-|15:00 - 16:00| **Panel Discussion** (alphabetical order):
-Samy Bengio, Chip Huyen, Hugo Larochelle, Neil Lawrence, Charles Onu, Masashi Sugiyama, Liwei Wang|
+|15:00 - 16:00| **Panel Discussion** (alphabetical order): Samy Bengio, Chip Huyen, Hugo Larochelle, Neil Lawrence, Charles Onu, Masashi Sugiyama, Liwei Wang|
 |16:00 - 16:30| Two contributed talks of 10 min + 5 min questions |
 |16:30 - 16:45| Award Ceremony, Closing remarks|
 
