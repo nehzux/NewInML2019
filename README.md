@@ -50,7 +50,7 @@ Within quota limits, the authors of the best accepted papers will be receiving t
 This will be a whole day session. 
 Tentative program:
 
-| **Time**  | **Event**|
+| <div style="width:100px">**Time**</div>  | **Event**|
 |-------------------------------------------|-----------------------------------------------------------------------------------|
 |07:00 - 09:00| Mentoring breakfast  |
 |09:00 - 09:15| **Opening address:**  Terrence Sejnowski |
@@ -59,7 +59,7 @@ Tentative program:
 |11:00 - 12:30| Six contributed talks of 10 min + 5 min questions |
 |12:30 - 14:00| Lunch and poster session |
 |14:00 - 15:00| Four contributed talks of 10 min + 5 min questions |
-|<img width=100/> 15:00 - 16:00| **Panel Discussion** (alphabetical order): Samy Bengio, Chip Huyen, Hugo Larochelle, Neil Lawrence, Charles Onu, Masashi Sugiyama, Liwei Wang|
+|15:00 - 16:00| **Panel Discussion** (alphabetical order): Samy Bengio, Chip Huyen, Hugo Larochelle, Neil Lawrence, Charles Onu, Masashi Sugiyama, Liwei Wang|
 |16:00 - 16:30| Two contributed talks of 10 min + 5 min questions |
 |16:30 - 16:45| Award Ceremony, Closing remarks|
 
