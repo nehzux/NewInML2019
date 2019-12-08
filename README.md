@@ -1,6 +1,6 @@
 ### The first  forum for newcomers to ML is co-located with NeurIPS, East Meeting Level 11,12, Vancouver Convention Center, Vancouver, BC, Canada, Monday, December 9th, 2019.
 
-### The Mentoring Breakfast is located in East Meeting Room, from 7am to 9am. Register with https://www.eventbrite.ca/e/mentoring-breakfast-newinml-neurips-2019-tickets-82802908729. There will be reception to distribute table numbers and stickers. Please be on time!
+### The Mentoring Breakfast is located in East Meeting Room, from 7am to 9am, Dec 9th. Register with https://www.eventbrite.ca/e/mentoring-breakfast-newinml-neurips-2019-tickets-82802908729. There will be reception to distribute table numbers and stickers. Please be on time!
 
 # Mission
 
