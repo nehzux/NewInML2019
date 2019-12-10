@@ -2,6 +2,23 @@
 
 ### The Mentoring Breakfast is located in East Meeting Room, from 7am to 9am, Dec 9th. Register with this [link](https://www.eventbrite.ca/e/mentoring-breakfast-newinml-neurips-2019-tickets-82802908729). There will be reception to distribute table numbers and stickers. Please be on time!
 
+# Spotlights in NeurIPS 2019
+
+![](figs/03.jpg?raw=true)
+![](figs/01.jpg?raw=true)
+![](figs/08.jpg?raw=true)
+![](figs/04.jpg?raw=true)
+![](figs/05.jpg?raw=true)
+![](figs/06.jpg?raw=true)
+![](figs/07.jpg?raw=true)
+![](figs/09.jpg?raw=true)
+![](figs/10.jpg?raw=true)
+![](figs/15.jpg?raw=true)
+![](figs/11.jpg?raw=true)
+![](figs/12.jpg?raw=true)
+![](figs/13.jpg?raw=true)
+![](figs/14.jpg?raw=true)
+
 # Mission
 
 Is this your first time to a top conference? Have you ever wanted your own work recognized by this huge and active community? Do you encounter difficulties in polishing your ideas, experiments, paper writing, etc? Then, this session is exactly for you!
