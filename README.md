@@ -72,14 +72,14 @@ Tentative program:
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
 |07:00 - 09:00| Mentoring breakfast  |
-|09:00 - 09:15| **Opening address:**  Terrence Sejnowski |
-|09:15 - 10:45| **Invited Talk:** Thomas G. Dietterich |
+|09:00 - 09:15| **Opening address:**  Isabelle Guyon |
+|09:15 - 10:45| **Invited Talk:** Thomas G. Dietterich [slides](http://web.engr.oregonstate.edu/~tgd/talks/new-in-ml-2019.pdf)|
 |10:45 - 11:00| Break |
-|11:00 - 12:30| Six contributed talks of 10 min + 5 min questions |
+|11:00 - 12:30| Six contributed talks of 10 min + 5 min questions [slides](https://drive.google.com/open?id=1tw8dMVqdIKj0RYeFCfvNIqPk526xL2ZG)|
 |12:30 - 14:00| Lunch and poster session |
-|14:00 - 15:00| Four contributed talks of 10 min + 5 min questions |
+|14:00 - 15:00| Four contributed talks of 10 min + 5 min questions [slides](https://drive.google.com/open?id=1tw8dMVqdIKj0RYeFCfvNIqPk526xL2ZG)|
 |15:00 - 16:00| **Panel Discussion** (alphabetical order): Samy Bengio, Chip Huyen, <br/>Hugo Larochelle, Neil Lawrence, Charles Onu, Masashi Sugiyama, Liwei Wang|
-|16:00 - 16:30| Two contributed talks of 10 min + 5 min questions |
+|16:00 - 16:30| Two contributed talks of 10 min + 5 min questions [slides](https://drive.google.com/open?id=1tw8dMVqdIKj0RYeFCfvNIqPk526xL2ZG)|
 |16:30 - 16:45| Award Ceremony, Closing remarks|
 
 
@@ -272,6 +272,8 @@ Tentative program:
 
 
 # Oral papers
+
+[slides](https://drive.google.com/open?id=1tw8dMVqdIKj0RYeFCfvNIqPk526xL2ZG)
 
 * Learning to learn for Neural Architecture Search, Jorge Gomez Robles
 * Edge Contraction Pooling for Graph Neural Networks, Frederik Diehl 
