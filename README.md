@@ -254,7 +254,7 @@ Tentative program:
 
 # Organizers
 
-* Zhen Xu (Ecole Polytechnique/4Paradigm [zhen.xu@polytechnique.edu](zhen.xu@polytechnique.edu))
+* Zhen Xu (Ecole Polytechnique/4Paradigm [xuzhen@4paradigm.com](xuzhen@4paradigm.com))
 * Zhengying Liu (U. PSud/INRIA, Université Paris-Saclay)
 * Sparkle Russell (Genentech/Roche Pharmaceuticals)
 * Xiawei Guo (4Paradigm)
